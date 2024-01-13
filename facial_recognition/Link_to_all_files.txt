@@ -1,0 +1,20 @@
+Important Links
+
+1. Collab ipynb: https://drive.google.com/file/d/1LZYgwcO9Fb11aMFVOsVTTo8w18Zuy8yJ/view?usp=sharing
+
+2. Drive folder with dataset, saved model and ipynb file:
+https://drive.google.com/drive/folders/174SNypYznB6BlYfu8bRgKxhRT19wj-JT?usp=drive_link
+
+3. Primary Dataset Link (Labelled Faces in the Wild):
+http://vis-www.cs.umass.edu/lfw/
+These were kept in ‘negative’ dataset.
+
+4. Secondary Dataset (Self Images): 
+https://drive.google.com/drive/folders/1nbzKpwlAJb4XgSssfvcOhopDMtHhNgxa?usp=drive_link
+These were further segregated into ‘anchor’ and ‘positive’ datasets.
+
+4. Images used while writing the research paper: 
+https://drive.google.com/drive/folders/1EVRqiNLzAUW9GO8D7qg8rQqnYNx4na98?usp=drive_link
+ 
+
+
